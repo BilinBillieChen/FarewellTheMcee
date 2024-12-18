@@ -1,1 +1,5 @@
-# FarewellTheMcee
+Cabaret at the Kit Kat Club is a Broadway show, and Cabaret is an iconic American musical with music by John Kander, lyrics by Fred Ebb, and a book by Joe Masteroff. I am deeply impressed by the character of The Emcee, who embodies truth, beauty, bravery, and darkness. The Emcee serves as both a guide to ecstatic joy and a puppet of harsh reality.
+
+Inspired by this character, I created an interactive visual art piece in a game-like form. In this work, the audience directs a crown-like non-player character (NPC) through a maze-like layout. The space key allows the audience to reset the layout at any time, generating a completely new version while erasing the old one. However, if the audience treats the experience as a game and successfully guides the crown-like character to the end, they encounter a "farewell" pronouncement. At that point, the ability to reset is lost forever.
+
+This piece reflects my quest to understand the essence of The Emcee. I feel a profound pain in exploring this character, who is born from social unrest and extreme repression. The inclusion of the "farewell" scene represents my yearning for an ideal reality—a goodbye to The Emcee as a symbol of pain and conflict. In that final moment, a static and peaceful setting emerges, embodying a hopeful wish for tranquility and resolution.
